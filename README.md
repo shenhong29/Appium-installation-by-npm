@@ -6,7 +6,7 @@ appium installation for test automation against iOS devices running from iOS sim
 Appium is an open source test automation framework for use with native, hybrid and mobile web apps.
 It drives iOS, Android, and Windows apps using the WebDriver protocol. More details are available at http://appium.io/.
 
-Two Appium installation methods are available to macOS
+Two Appium installation methods are available for macOS:
 * Appium Download - https://github.com/appium/appium-desktop/releases/tag/v1.15.1 (as of March 27, 2020)
 * Easy setup process, run a test now. - http://appium.io/ (v1.17.0 as of March 27, 2020)
 
@@ -105,7 +105,7 @@ info AppiumDoctor
 
 ## Conclusions
 * #### All required softwares / libraries are installed correctly ####
-* #### Warning for android can be ignored since the test automation is target for iOS Simulator ####
-* #### Error for Diagnostic for optional dependencies can be fixed by following the instructions or ignored ####
+* #### Warnings for android can be ignored since the test automation is targeted for iOS Simulator ####
+* #### Warnings for Diagnostic for optional dependencies can be fixed by following the instructions or ignored ####
 
 
